@@ -1,2 +1,2 @@
 # all_tag
-Minecraft:JEで、すべてのアイテムを指定するタグを配布
+Minecraft:JEで、すべてのアイテムを指定するタグが利用できます。
